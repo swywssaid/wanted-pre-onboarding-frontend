@@ -1,10 +1,10 @@
 import axios from "axios";
 
-const api = axios.create({
+const instance = axios.create({
   baseURL: "https://pre-onboarding-selection-task.shop/",
   headers: {
     "Content-Type": "application/json",
   },
 });
 
-export default api;
+export default instance;
