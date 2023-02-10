@@ -3,6 +3,7 @@
 <br><br>
 
 ## 배포 
+https://swywssaid.github.io/wanted-pre-onboarding-frontend
 
 <br><br>
 
@@ -69,4 +70,7 @@
 <br><br>
 
 ## 프로젝트의 실행 방법
-
+```
+$ npm install
+$ npm run start
+```
