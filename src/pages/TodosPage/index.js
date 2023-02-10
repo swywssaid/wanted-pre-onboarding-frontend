@@ -19,6 +19,7 @@ export default function TodosPage() {
         url: "/todos",
         method: "GET",
       });
+      console.log(request.data);
       setTodoData(request.data);
     }
     fetchData();
