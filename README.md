@@ -3,7 +3,7 @@
 <br><br>
 
 ## 배포 
-https://swywssaid.github.io/wanted-pre-onboarding-frontend/signin
+https://swywssaid.github.io/wanted-pre-onboarding-frontend
 
 <br><br>
 

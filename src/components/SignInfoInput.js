@@ -30,6 +30,7 @@ export default function SignInfoInput({ type }) {
       } else if ((type === "signin") & (res.status === 200)) {
         if (res.data.access_token) localStorage.setItem("access_token", res.data.access_token);
         navigate("/todo");
+        window.location.reload();
       } else {
         alert(res.data.message);
       }
